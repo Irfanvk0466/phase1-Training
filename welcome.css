@@ -1,0 +1,127 @@
+*{
+	margin: 0;
+	padding: 0;
+	font-family: 'Roboto Condensed', sans-serif;
+}
+
+
+
+.navbar-nav{
+	margin-right: 0 !important;
+	padding-right: 10px;
+}
+
+.navbar{
+	background-color: #0a193d;
+	color: white !important;
+}
+
+.nav-item a{
+	color: white !important;
+}
+
+.nav-item{
+	padding-left: 20px;
+	margin-right: 50px;
+}
+
+.navbar-logo{
+	color: rgb(126, 6, 6) !important;
+	mix-blend-mode: multiply;
+	padding-left: 10px;
+	width:10%;
+
+	
+}
+
+#navbar button{
+	color: white ;
+}
+
+/* banner */
+
+#banner-container{
+	background-color: #0a193d;
+	color: white !important;
+	padding-top: 80px;
+	padding-bottom: 80px;
+	
+}
+
+
+
+#banner-row h3, p{
+	padding-left: 20px;
+	padding-top: 20px;
+	text-align: center;
+}
+
+#banner-row a{
+	background-color: white !important;
+	color: black !important;
+	border: none;
+	margin-left: 20px;
+	margin-top: 20px;
+	
+}
+#banner-col{
+	padding-left: 20px;
+}
+
+
+
+
+/* footer */
+
+.icon-facebook{
+	color:#aaaa;
+	mix-blend-mode: multiply;
+	font-size: 3rem;
+	text-decoration: none;
+	margin:0 20px;
+	
+}
+
+
+
+.icon-instagram{
+	
+	mix-blend-mode: multiply;
+	font-size: 3rem;
+	text-decoration: none;
+	margin:0 20px;
+}
+
+.icon-twitter{
+	mix-blend-mode: multiply;
+	font-size: 3rem;
+	text-decoration: none;
+	margin:0 20px;
+}
+
+.icon-github{
+	
+	mix-blend-mode: multiply;
+	font-size: 3rem;
+	text-decoration: none;
+	margin:0 20px;
+}
+
+
+
+.mb-3{
+padding-top: 10px;
+}
+
+
+/* media */
+@media only screen and (max-width: 987px){
+	.navbar-brand{
+		padding-left: 0px;
+	}
+}
+
+
+
+
+
